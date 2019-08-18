@@ -1,0 +1,406 @@
+[
+  { "id": 1, "description": "In Your Location", "square": "B1" },
+  { "id": 2, "description": "Do one thing", "square": "B2" },
+  { "id": 3, "description": "Dablu Dablu Dablu", "square": "B3" },
+  { "id": 4, "description": "Stopped Services", "square": "B4" },
+  {
+    "id": 5,
+    "description": "Hackers",
+    "square": "B5"
+  },
+  {
+    "id": 6,
+    "description": "Four Flag Key",
+    "square": "B1"
+  },
+  {
+    "id": 7,
+    "description": "Each and Everything",
+    "square": "B2"
+  },
+  { "id": 8, "description": "(Opens Event Viewer)", "square": "B3" },
+  { "id": 9, "description": "License Expired", "square": "B4" },
+  {
+    "id": 10,
+    "description": "Microsoft Certified",
+    "square": "B5"
+  },
+  {
+    "id": 11,
+    "description": "Secure Server",
+    "square": "B1"
+  },
+  {
+    "id": 12,
+    "description": "Windows Key + R",
+    "square": "B2"
+  },
+  {
+    "id": 13,
+    "description": "One Time Charge",
+    "square": "B3"
+  },
+  {
+    "id": 14,
+    "description": "Lifetime Option",
+    "square": "B4"
+  },
+  { "id": 15, "description": "Errors and Warnings", "square": "B5" },
+  {
+    "id": 16,
+    "description": "Extreme Bottom Left Of Your Keyboard",
+    "square": "B1"
+  },
+  {
+    "id": 17,
+    "description": "MoneyGram",
+    "square": "B2"
+  },
+  { "id": 18, "description": "Western Union", "square": "B3" },
+  {
+    "id": 19,
+    "description": "Google Play Card",
+    "square": "B4"
+  },
+  {
+    "id": 20,
+    "description": "iTunes Gift Card",
+    "square": "B5"
+  },
+  {
+    "id": 21,
+    "description": "Wal-Mart",
+    "square": "I1"
+  },
+  {
+    "id": 22,
+    "description": "Support.me",
+    "square": "I2"
+  },
+  {
+    "id": 23,
+    "description": "Fastsupport.com",
+    "square": "I3"
+  },
+  { "id": 24, "description": "Listen To Me", "square": "I4" },
+  {
+    "id": 25,
+    "description": "Multi-tiered clear-thinking capacity",
+    "square": "I5"
+  },
+  {
+    "id": 26,
+    "description": "Cross-platform demand-driven collaboration",
+    "square": "I1"
+  },
+  {
+    "id": 27,
+    "description": "Re-contextualized bifurcated help-desk",
+    "square": "I2"
+  },
+  {
+    "id": 28,
+    "description": "Extended solution-oriented knowledge user",
+    "square": "I3"
+  },
+  {
+    "id": 29,
+    "description": "Up-sized even-keeled infrastructure",
+    "square": "I4"
+  },
+  { "id": 30, "description": "Compatible coherent concept", "square": "I5" },
+  {
+    "id": 31,
+    "description": "Vision-oriented intangible challenge",
+    "square": "I1"
+  },
+  { "id": 32, "description": "Operative hybrid contingency", "square": "I2" },
+  {
+    "id": 33,
+    "description": "Profit-focused neutral open architecture",
+    "square": "I3"
+  },
+  {
+    "id": 34,
+    "description": "Organized regional architecture",
+    "square": "I4"
+  },
+  {
+    "id": 35,
+    "description": "Digitized mobile knowledge base",
+    "square": "I5"
+  },
+  {
+    "id": 36,
+    "description": "Quality-focused value-added utilisation",
+    "square": "I1"
+  },
+  {
+    "id": 37,
+    "description": "Vision-oriented high-level monitoring",
+    "square": "I2"
+  },
+  { "id": 38, "description": "Devolved exuding architecture", "square": "I3" },
+  {
+    "id": 39,
+    "description": "Visionary upward-trending open system",
+    "square": "I4"
+  },
+  {
+    "id": 40,
+    "description": "Secured mission-critical functionalities",
+    "square": "I5"
+  },
+  {
+    "id": 41,
+    "description": "Function-based bottom-line benchmark",
+    "square": "N1"
+  },
+  {
+    "id": 42,
+    "description": "Cross-platform high-level budgetary management",
+    "square": "N2"
+  },
+  {
+    "id": 43,
+    "description": "Cross-platform high-level budgetary management",
+    "square": "N4"
+  },
+  {
+    "id": 44,
+    "description": "Face to face needs-based knowledge user",
+    "square": "N4"
+  },
+  {
+    "id": 45,
+    "description": "Fully-configurable content-based hierarchy",
+    "square": "N5"
+  },
+  {
+    "id": 46,
+    "description": "Triple-buffered impactful pricing structure",
+    "square": "N1"
+  },
+  {
+    "id": 47,
+    "description": "Multi-tiered heuristic leverage",
+    "square": "N2"
+  },
+  {
+    "id": 48,
+    "description": "Cross-platform high-level budgetary management",
+    "square": "N4"
+  },
+  {
+    "id": 49,
+    "description": "Multi-lateral client-server archive",
+    "square": "N4"
+  },
+  {
+    "id": 50,
+    "description": "Ergonomic multi-tasking success",
+    "square": "N5"
+  },
+  {
+    "id": 51,
+    "description": "Inverse contextually-based functionalities",
+    "square": "N1"
+  },
+  { "id": 52, "description": "Synergized explicit projection", "square": "N2" },
+  {
+    "id": 53,
+    "description": "Cross-platform high-level budgetary management",
+    "square": "N4"
+  },
+  {
+    "id": 54,
+    "description": "Organized intermediate paradigm",
+    "square": "N4"
+  },
+  {
+    "id": 55,
+    "description": "Multi-channelled real-time migration",
+    "square": "N5"
+  },
+  {
+    "id": 56,
+    "description": "Public-key object-oriented function",
+    "square": "N1"
+  },
+  {
+    "id": 57,
+    "description": "Multi-channelled upward-trending productivity",
+    "square": "N2"
+  },
+  {
+    "id": 58,
+    "description": "Cross-platform high-level budgetary management",
+    "square": "N4"
+  },
+  {
+    "id": 59,
+    "description": "Operative human-resource parallelism",
+    "square": "N4"
+  },
+  {
+    "id": 60,
+    "description": "De-engineered scalable hierarchy",
+    "square": "N5"
+  },
+  {
+    "id": 61,
+    "description": "Front-line national collaboration",
+    "square": "G1"
+  },
+  {
+    "id": 62,
+    "description": "Progressive methodical moderator",
+    "square": "G2"
+  },
+  {
+    "id": 63,
+    "description": "Realigned demand-driven pricing structure",
+    "square": "G3"
+  },
+  { "id": 64, "description": "Compatible didactic emulation", "square": "G4" },
+  { "id": 65, "description": "Balanced heuristic approach", "square": "G5" },
+  {
+    "id": 66,
+    "description": "Polarised human-resource focus group",
+    "square": "G1"
+  },
+  {
+    "id": 67,
+    "description": "Optional interactive service-desk",
+    "square": "G2"
+  },
+  {
+    "id": 68,
+    "description": "Persistent transitional parallelism",
+    "square": "G3"
+  },
+  {
+    "id": 69,
+    "description": "Customer-focused regional open architecture",
+    "square": "G4"
+  },
+  {
+    "id": 70,
+    "description": "Future-proofed cohesive budgetary management",
+    "square": "G5"
+  },
+  {
+    "id": 71,
+    "description": "Devolved dedicated conglomeration",
+    "square": "G1"
+  },
+  {
+    "id": 72,
+    "description": "Mandatory value-added application",
+    "square": "G2"
+  },
+  { "id": 73, "description": "Visionary dedicated task-force", "square": "G3" },
+  {
+    "id": 74,
+    "description": "Quality-focused systematic system engine",
+    "square": "G4"
+  },
+  {
+    "id": 75,
+    "description": "Self-enabling actuating hierarchy",
+    "square": "G5"
+  },
+  {
+    "id": 76,
+    "description": "Reverse-engineered 5th generation encoding",
+    "square": "G1"
+  },
+  { "id": 77, "description": "Focused needs-based approach", "square": "G2" },
+  {
+    "id": 78,
+    "description": "Open-architected zero tolerance Graphic Interface",
+    "square": "G3"
+  },
+  {
+    "id": 79,
+    "description": "Compatible web-enabled Graphical User Interface",
+    "square": "G4"
+  },
+  { "id": 80, "description": "Up-sized 24 hour hardware", "square": "G5" },
+  {
+    "id": 81,
+    "description": "Stand-alone bottom-line functionalities",
+    "square": "O1"
+  },
+  {
+    "id": 82,
+    "description": "Multi-channelled client-server artificial intelligence",
+    "square": "O2"
+  },
+  {
+    "id": 83,
+    "description": "Object-based real-time hierarchy",
+    "square": "O3"
+  },
+  {
+    "id": 84,
+    "description": "Cross-platform intermediate software",
+    "square": "O4"
+  },
+  {
+    "id": 85,
+    "description": "Synergized solution-oriented protocol",
+    "square": "O5"
+  },
+  { "id": 86, "description": "Progressive maximized ability", "square": "O1" },
+  { "id": 87, "description": "Streamlined coherent policy", "square": "O2" },
+  {
+    "id": 88,
+    "description": "Self-enabling bifurcated functionalities",
+    "square": "O3"
+  },
+  {
+    "id": 89,
+    "description": "Progressive 6th generation matrix",
+    "square": "O4"
+  },
+  { "id": 90, "description": "Public-key actuating adapter", "square": "O5" },
+  {
+    "id": 91,
+    "description": "Polarised value-added implementation",
+    "square": "O1"
+  },
+  {
+    "id": 92,
+    "description": "Profit-focused leading edge superstructure",
+    "square": "O2"
+  },
+  {
+    "id": 93,
+    "description": "Customer-focused bi-directional artificial intelligence",
+    "square": "O3"
+  },
+  {
+    "id": 94,
+    "description": "User-centric multi-tasking flexibility",
+    "square": "O4"
+  },
+  { "id": 95, "description": "Enhanced tangible solution", "square": "O5" },
+  {
+    "id": 96,
+    "description": "Synchronised transitional adapter",
+    "square": "O1"
+  },
+  { "id": 97, "description": "Pre-emptive hybrid focus group", "square": "O2" },
+  {
+    "id": 98,
+    "description": "Visionary coherent budgetary management",
+    "square": "O3"
+  },
+  { "id": 99, "description": "Persistent impactful archive", "square": "O4" },
+  {
+    "id": 100,
+    "description": "Mandatory leading edge workforce",
+    "square": "O5"
+  }
+]

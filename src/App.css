@@ -1,0 +1,182 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.CardContainer {
+  display: grid;
+  margin: 0 auto;
+  grid-template-areas:
+    'B1 I1 N1 G1 O1'
+    'B2 I2 N2 G2 O2'
+    'B3 I3 N3 G3 O3'
+    'B4 I4 N4 G4 O4'
+    'B5 I5 N5 G5 O5';
+  width: 1010px;
+  height: 1010px;
+}
+
+.B1 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.B2 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.B3 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.B4 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.B5 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.I1 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.I2 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.I3 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.I4 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.I5 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.N1 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.N2 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.N3 {
+  grid-area: N3;
+  border: 1px solid red;
+  height: 200px;
+  width: 200px;
+}
+
+.N4 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.N5 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.G1 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.G2 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.G3 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.G4 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.G5 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.O1 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.O2 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.O3 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.O4 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.O5 {
+  border: 1px solid blue;
+  height: 200px;
+  width: 200px;
+}
